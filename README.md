@@ -19,4 +19,5 @@
 ## Project Status
   Done
 ## Links
-  There is .apk file in "APK" directory on this repository
+  - There is .apk file in "APK" directory on this repository or
+  - https://drive.google.com/file/d/1WW5wDyVGI5oTv0nTI1WBqmVO_2I9_DT0/view?usp=sharing
