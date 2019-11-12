@@ -41,12 +41,12 @@
   <h3 align="center">Employees Manager App</h3>
 
   <p align="center">
-    Nice way to present git works protfolio
+    Ultimat app to manage employees's shifts
     <br />
     <a href="https://github.com/dormalk/React-Native-Employees-Manager-App"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://goo.gl/iqtzZK" target="_blank">Open Exensify App</a>
+    <a href="https://github.com/dormalk/React-Native-Employees-Manager-App/tree/master/APK" target="_blank">Download APK</a>
     ·
     <a href="https://github.com/dormalk/React-Native-Employees-Manager-App/issues">Report Bug</a>
     ·
@@ -81,7 +81,9 @@
   
 ### Built With
 
-  * [React](https://reactjs.org/)
+  * [Expo](https://expo.io/)
+  * [React Native](https://facebook.github.io/react-native/)
+  * [Firebase](https://firebase.google.com/)
 
 
 
@@ -100,28 +102,29 @@ npm install create-react-app
  
 1. Clone the repo
 ```sh
-git clone https://github.com/dormalk/Protfolio-Web-Page
+git clone https://github.com/dormalk/Buy2Gether
 ```
 2. Install NPM packages
 ```sh
 npm install
 ```
-3. Run app from CMD
+3. Download Expo app form AppStore|Playstore <br/>
+[Expo on PlayStore](https://play.google.com/store/apps/details?id=host.exp.exponent) | 
+[Expo on AppStore](https://apps.apple.com/us/app/expo-client/id982107779)
+4. Run app from CMD and open it on Expo app
 ```sh
 npm run start
 ```
-4. Follow the instruction on the opened web page
-```sh
-http://localhost:3000
-```
+5. Follow the instruction on the opened web page
+
 
 <!-- USAGE EXAMPLES -->
 ## Implementation
-  - Use GitHub API to fetch repositories from self git
-  - Resposive for Mobile&Teblet
-  - Use GitHub Pages for hosting project
-  - Impliment PWA (Progressive Web App) to support offline mode and mobile app version
-  - <a href="http://bit.ly/dormalk-protfolio" target="_blank">Link to Protfolio</a>
+  - Works on front-end (not require implements of server side)
+  - Easy Api
+  - Account management
+  - Include NoSql database with json records - Holds expense data
+  - <a href="https://github.com/dormalk/React-Native-Employees-Manager-App/tree/master/APK" target="_blank">Link to APK on Git</a>
 <!--_For more examples, please refer to the [Documentation](https://example.com)_-->
 
 
@@ -166,9 +169,7 @@ Project Link: [https://github.com/dormalk/React-Native-Employees-Manager-App](ht
 ## Acknowledgements
 
 * [Git README.md Template](https://github.com/othneildrew/Best-README-Template)
-* [React](https://reactjs.org/)
-* [axios](https://github.com/axios/axios)
-* [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps)
+* [Expo Documentations](https://docs.expo.io/versions/latest/)
 
 
 
@@ -189,27 +190,3 @@ Project Link: [https://github.com/dormalk/React-Native-Employees-Manager-App](ht
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/dor-malka-444b94116/
 
-
-
-# Manager
-  Ultimat app to manage employees's shifts
-## Implementation
-  - React.js(+redux)
-  - DB: Firebase
-## What's include
-  - Login page - Login by email and password.
-  - ListView of all employees under management
-  - Create Employee - Create new employee and save on database
-  - Manage Employee -
-    - Edit details of employee
-    - Text personal SMS to employee
-    - Fire employee and remove him from Database
-## Firebase
-  - Works on front-end (not require implements of server side)
-  - Easy Api
-  - Account management
-  - Include NoSql database with json records - Holds expense data
-## Project Status
-  Done
-## Links
-  - There is .apk file in "APK" directory on this repository
