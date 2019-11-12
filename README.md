@@ -35,7 +35,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/dormalk/React-Native-Employees-Manager-App">
-    <img src="https://raw.githubusercontent.com/dormalk/Protfolio-Web-Page/master/public/icons/icon-192x192.png" alt="logo" width="150" height="150"/>
+    <img src="https://i.imgur.com/xVKjV7Q.png" alt="logo" width="150" height="150"/>
   </a>
 
   <h3 align="center">Employees Manager App</h3>
@@ -75,9 +75,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-  Project that used to present git repository project in nicely way.<br/>
-  All projects splits to tabs according to development languange that Github taged. <br/>
-  There is more project that shows menulay (not from git) and linked to Google Drive folder.
+  Useful application to manage your employess works shifts.<br/>
+  Add/remove emplyees dynamically and and send them notification about their coming soon shifts.
   
 ### Built With
 
@@ -93,9 +92,9 @@
 Follow the next indtuction to run this project on local enviroment.
 ### Prerequisites
 
-* React
+* Expo
 ```sh
-npm install create-react-app
+npm install expo
 ```
 
 ### Installation
